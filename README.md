@@ -15,7 +15,7 @@
 <a href = 'https://www.linkedin.com/in/u%C4%9Fur-%C3%A7engiz-129215238/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <!-- <a href = 'https://twitter.com/Ugurcengiz60'> <img width = '35px' align= 'center'   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
 <!-- <a href = ''> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> -->
-<a href = 'https://github.com/oguzhanet'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/ugurCengiz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=oguzhanet.oguzhanet)
   

@@ -17,7 +17,7 @@
 <a href = 'https://www.instagram.com/lugur.cengizl/'> <img width = '35px' align= 'center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/ugurCengiz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ugurCengiz.ugurCengiz)
+
   
 
 
